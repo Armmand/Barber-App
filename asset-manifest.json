@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Barber-App/static/css/main.d6e47ad4.css",
+    "main.js": "/Barber-App/static/js/main.3dc4687d.js",
+    "static/media/logo.png": "/Barber-App/static/media/logo.88949e3cb2390165ebeb.png",
+    "index.html": "/Barber-App/index.html",
+    "main.d6e47ad4.css.map": "/Barber-App/static/css/main.d6e47ad4.css.map",
+    "main.3dc4687d.js.map": "/Barber-App/static/js/main.3dc4687d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6e47ad4.css",
+    "static/js/main.3dc4687d.js"
+  ]
+}
